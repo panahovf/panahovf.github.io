@@ -22,7 +22,7 @@ repository               : "panahovf/panahovf.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Farhad Panahov"
+  name             : # Farhad Panahov
   pronouns         : # example: "he/him"  
   bio              : "I am an economist at RBC Climate Action Institute focusing on range of topics related to decarbonizing Canadian economy"
   location         : "Canada"
@@ -64,7 +64,7 @@ author:
   steam            : # Username
   telegram         : # URL
   tumblr           : # Username
-  twitter          : "UniofOxford"  # Replace this with your X / Twitter handle
+  twitter          : # Replace this with your X / Twitter handle
   vine             : # Username
   weibo            : # Username
   wikipedia        : # Username
