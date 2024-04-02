@@ -84,11 +84,11 @@ author:
   name             : #"Farhad Panahov"
   avatar           : "linkedin pic.jpg"
   bio              : "<p> I am an economist at RBC Climate Action Institute focusing on range of topics related to decarbonizing Canadian economy. <br> <br> My background is in macroeconomics and development, and I have extensive experience in green skills/jobs research. <br> <br> I graduated from MIT's Data, Economics, and Development Policy program in 2022.  </p> "
-  location         : 
-  employer         : 
+  location         : "Canada"
+  employer         : "Royal Bank of Canada"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            : "vwiedemann@ifc.org"
+  email            : "panahovf93@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -97,20 +97,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "verena-wiedemann"
+  github           : "panahovf"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/panahov/"
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : # 
   steam            :
   tumblr           :
-  twitter          : #"@Verena_W_"
+  twitter          : #
   vine             :
   weibo            :
   xing             :
