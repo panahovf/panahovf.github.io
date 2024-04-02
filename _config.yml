@@ -21,7 +21,7 @@ repository               : "panahovf/panahovf.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "linkedin pic.png"
+  avatar           : "linkedin pic.jpg"
   name             : # Farhad Panahov
   pronouns         : # example: "he/him"  
   bio              : "I am an economist at RBC Climate Action Institute focusing on range of topics related to decarbonizing Canadian economy"
