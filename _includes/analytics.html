@@ -1,3 +1,4 @@
+
 {% if site.analytics.provider and page.analytics != false %}
 
 {% case site.analytics.provider %}
@@ -5,10 +6,9 @@
   {% include /analytics-providers/google.html %}
 {% when "google-universal" %}
   {% include /analytics-providers/google-universal.html %}
-{% when "google-analytics-4" %}
-  {% include /analytics-providers/google-analytics-4.html %}
 {% when "custom" %}
   {% include /analytics-providers/custom.html %}
 {% endcase %}
 
 {% endif %}
+<script src="https://beamanalytics.b-cdn.net/beam.min.js" data-token="a38cda9c-3a48-4b8d-a014-6aeb480e4846" async></script>
