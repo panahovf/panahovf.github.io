@@ -440,6 +440,11 @@ section { scroll-margin-top: 20px; }
   .tile--large .pic, .tile--sm .pic, .tile--tall .pic { aspect-ratio: 16 / 10; }
   .topbar .wrap { flex-direction: column; align-items: flex-start; gap: 14px; }
   .latest { aspect-ratio: 4 / 5; }
+  /* five menu items: tighter pills; on the narrowest phones the menu scrolls sideways inside its pill
+     instead of making the whole page wider */
+  .pillnav { gap: 2px; max-width: 100%; overflow-x: auto; scrollbar-width: none; }
+  .pillnav::-webkit-scrollbar { display: none; }
+  .pillnav a { padding: 8px 9px; white-space: nowrap; flex: none; }
 }
 
 @media (prefers-reduced-motion: reduce) {
