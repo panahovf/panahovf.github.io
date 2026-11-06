@@ -71,7 +71,7 @@ async function galaxyTile(tile) {
                 el("div", "l", `of Budget ${year}'s new spending goes to ${theme.toLowerCase()}`));
     tile.querySelector(".stat").replaceChildren(left, miniMap(data.measures, year));
     tile.querySelector(".when").textContent =
-      `Budget Galaxy · ${d3.format(",")(data.measures.length)} measures in Budgets ${d3.min(data.years)} to ${year}`;
+      `${d3.format(",")(data.measures.length)} measures in Budgets ${d3.min(data.years)} to ${year}`;
   } catch (e) {
     console.warn("Budget Galaxy tile:", e);
   }
